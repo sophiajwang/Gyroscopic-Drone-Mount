@@ -1,14 +1,16 @@
 # Gyroscopic Test Rig
 #### Sophia Wang and Tshering Dorji
 
-
-<center><video src="pics/final_video.MP4" width="100%" controls></video></center>
-<center>3-axis (yaw/pitch/roll) for tuning flight controller pre-launch.</center>
-<br />
+<p align="center">
+  <img src="./pics/final_video.gif" alt="animated" />
+  <br  /> 3-axis (yaw/pitch/roll) for tuning flight controller pre-launch.
+</p>
 
 ## Assembly
-<center><img src="./pics/labeled_cad_rendering.png" width="100%"> </center>
-<center>Assembly Diagram</center>
+<p align="center">
+  <img src="./pics/labeled_cad_rendering.png" width="100%">
+  <br  /> Assembly Diagram
+</p>
 
 ## Parts 
 ### Tools
